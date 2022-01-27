@@ -50,6 +50,11 @@ var cats = [
     name: "Cat10",
     pic: "pics/cat10.jpg",
     count: 0
+  },
+  {
+    name: "God",
+    pic: "pics/godofcats.jpg",
+    count: 0
   }
 ];
 
